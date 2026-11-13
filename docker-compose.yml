@@ -1,3 +1,4 @@
+
 services:
   db:
     image: postgres:16
@@ -21,6 +22,19 @@ services:
       DATABASE_URL: postgres://queue:queue@db:5432/queue
     ports:
       - "3000:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  worker:
+    build: ./api
+    command: ["node", "src/worker.js"]
+    environment:
+      DATABASE_URL: postgres://queue:queue@db:5432/queue
+      LEASE_SECONDS: "5"
+    restart: always
+    deploy:
+      replicas: 4
     depends_on:
       db:
         condition: service_healthy
