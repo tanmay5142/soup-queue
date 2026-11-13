@@ -1,0 +1,132 @@
+{
+  "label": "smoke",
+  "num": 7,
+  "N": 2000,
+  "kills": 337,
+  "netErrors": 0,
+  "statusCounts": [
+    {
+      "status": "cancelled",
+      "n": 288
+    },
+    {
+      "status": "queued",
+      "n": 1639
+    },
+    {
+      "status": "running",
+      "n": 73
+    }
+  ],
+  "rerun": {
+    "n": 78,
+    "max_attempt": 175
+  },
+  "cancelCodes": {
+    "200": 282,
+    "202": 7,
+    "409": 89
+  },
+  "results": [
+    {
+      "name": "1. no job lost (every key has a job)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "1b. no extra jobs (rows == number of keys)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "2. duplicate POSTs: exactly one 201, same id for all",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3. no job has more than one effect",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3b. every succeeded job has an effect",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3c. no effect for a job that is not succeeded",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3d. effect belongs to the job's final attempt",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "4. no job stuck in queued or running",
+      "ok": false,
+      "count": 1712,
+      "sample": [
+        "{\"id\":\"60\",\"status\":\"running\"}",
+        "{\"id\":\"63\",\"status\":\"running\"}",
+        "{\"id\":\"135\",\"status\":\"running\"}",
+        "{\"id\":\"140\",\"status\":\"running\"}",
+        "{\"id\":\"119\",\"status\":\"queued\"}"
+      ]
+    },
+    {
+      "name": "4b. queue drained before timeout",
+      "ok": false,
+      "count": 1,
+      "sample": [
+        "drain timed out"
+      ]
+    },
+    {
+      "name": "5. only expected final states",
+      "ok": false,
+      "count": 1712,
+      "sample": [
+        "60:running",
+        "63:running",
+        "135:running",
+        "140:running",
+        "119:queued"
+      ]
+    },
+    {
+      "name": "5b. outcome matches payload (fail flag)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "6. an accepted cancel (200/202) always ends as cancelled",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "7. attempt == number of claims in run_log (no double claim)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "8. nothing changed during the 12s quiet period",
+      "ok": false,
+      "count": 1,
+      "sample": [
+        "{\"before\":{\"h\":\"b1055a7d26b50879676e1b05b3724693\",\"effects\":0},\"after\":{\"h\":\"b7e22bc961df3c32aa6c97ae9d455c36\",\"effects\":0}}"
+      ]
+    }
+  ]
+}

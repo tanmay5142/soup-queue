@@ -1,0 +1,110 @@
+{
+  "label": "run",
+  "num": 1,
+  "N": 10000,
+  "kills": 173,
+  "netErrors": 0,
+  "statusCounts": [
+    {
+      "status": "cancelled",
+      "n": 1492
+    },
+    {
+      "status": "failed",
+      "n": 166
+    },
+    {
+      "status": "succeeded",
+      "n": 8342
+    }
+  ],
+  "rerun": {
+    "n": 164,
+    "max_attempt": 4
+  },
+  "cancelCodes": {
+    "200": 1488,
+    "202": 5,
+    "409": 497
+  },
+  "results": [
+    {
+      "name": "1. no job lost (every key has a job)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "1b. no extra jobs (rows == number of keys)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "2. duplicate POSTs: exactly one 201, same id for all",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3. no job has more than one effect",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3b. every succeeded job has an effect",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3c. no effect for a job that is not succeeded",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "3d. effect belongs to the job's final attempt",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "4. no job stuck in queued or running",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "5. only expected final states",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "5b. outcome matches payload (fail flag)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "6. an accepted cancel (200/202) always ends as cancelled",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "7. attempt == number of claims in run_log (no double claim)",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    },
+    {
+      "name": "8. nothing changed during the 12s quiet period",
+      "ok": true,
+      "count": 0,
+      "sample": []
+    }
+  ]
+}

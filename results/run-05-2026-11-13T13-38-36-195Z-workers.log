@@ -1,0 +1,348 @@
+worker-5  | 2026-11-13T13:38:25.900Z 755725bfc388-48dd62 started
+worker-5  | 2026-11-13T13:38:45.317Z 755725bfc388-c11bc9 started
+worker-5  | 2026-11-13T13:39:01.536Z 755725bfc388-14a058 started
+worker-8  | 2026-11-13T13:38:27.863Z 9d6e14536a6c-01719f started
+worker-8  | 2026-11-13T13:38:46.128Z 9d6e14536a6c-01719f reaper recovered 74->queued
+worker-8  | 2026-11-13T13:39:05.565Z 9d6e14536a6c-1e0e6a started
+worker-8  | 2026-11-13T13:39:48.390Z 9d6e14536a6c-d0082e started
+worker-8  | 2026-11-13T13:40:08.509Z 9d6e14536a6c-d0082e reaper recovered 2660->queued
+worker-8  | 2026-11-13T13:40:11.488Z 9d6e14536a6c-37512c started
+worker-8  | 2026-11-13T13:40:17.200Z 9d6e14536a6c-f6a559 started
+worker-8  | 2026-11-13T13:40:45.392Z 9d6e14536a6c-f6a559 reaper recovered 3825->queued
+worker-8  | 2026-11-13T13:41:01.045Z 9d6e14536a6c-587ad7 started
+worker-8  | 2026-11-13T13:41:03.717Z 9d6e14536a6c-258930 started
+worker-8  | 2026-11-13T13:41:17.819Z 9d6e14536a6c-da2c1d started
+worker-8  | 2026-11-13T13:41:40.196Z 9d6e14536a6c-7b1d17 started
+worker-8  | 2026-11-13T13:41:58.166Z 9d6e14536a6c-6e1958 started
+worker-8  | 2026-11-13T13:42:04.079Z 9d6e14536a6c-825b12 started
+worker-8  | 2026-11-13T13:42:28.155Z 9d6e14536a6c-825b12 reaper recovered 7130->queued
+worker-8  | 2026-11-13T13:42:48.410Z 9d6e14536a6c-c63fdf started
+worker-8  | 2026-11-13T13:42:56.906Z 9d6e14536a6c-01e2df started
+worker-8  | 2026-11-13T13:43:05.040Z 9d6e14536a6c-869ba2 started
+worker-5  | 2026-11-13T13:39:23.480Z 755725bfc388-68a75a started
+worker-5  | 2026-11-13T13:39:41.644Z 755725bfc388-68a75a reaper recovered 1810->queued
+worker-5  | 2026-11-13T13:39:47.732Z 755725bfc388-68a75a reaper recovered 1996->queued
+worker-5  | 2026-11-13T13:40:05.767Z 755725bfc388-68a75a reaper recovered 2579->queued
+worker-5  | 2026-11-13T13:40:19.794Z 755725bfc388-68a75a reaper recovered 3003->queued
+worker-5  | 2026-11-13T13:40:28.258Z 755725bfc388-be887a started
+worker-8  | 2026-11-13T13:43:13.142Z 9d6e14536a6c-869ba2 reaper recovered 8589->queued
+worker-8  | 2026-11-13T13:43:23.160Z 9d6e14536a6c-869ba2 reaper recovered 8888->queued
+worker-8  | 2026-11-13T13:43:33.178Z 9d6e14536a6c-869ba2 reaper recovered 9255->queued
+worker-5  | 2026-11-13T13:40:36.360Z 755725bfc388-be887a reaper recovered 3545->queued
+worker-5  | 2026-11-13T13:40:39.577Z 755725bfc388-2be4f0 started
+worker-5  | 2026-11-13T13:40:51.670Z 755725bfc388-2be4f0 reaper recovered 4034->queued
+worker-5  | 2026-11-13T13:40:54.933Z 755725bfc388-970f69 started
+worker-5  | 2026-11-13T13:41:15.058Z 755725bfc388-970f69 reaper recovered 4766->queued
+worker-5  | 2026-11-13T13:41:21.365Z 755725bfc388-833463 started
+worker-5  | 2026-11-13T13:41:33.453Z 755725bfc388-833463 reaper recovered 5388->queued
+worker-5  | 2026-11-13T13:41:39.466Z 755725bfc388-833463 reaper recovered 5573->queued
+worker-5  | 2026-11-13T13:42:01.723Z 755725bfc388-e8d8e9 started
+worker-5  | 2026-11-13T13:42:09.843Z 755725bfc388-e8d8e9 reaper recovered 6564->queued
+worker-5  | 2026-11-13T13:42:16.378Z 755725bfc388-01effc started
+worker-5  | 2026-11-13T13:42:19.614Z 755725bfc388-94c31b started
+worker-5  | 2026-11-13T13:42:22.283Z 755725bfc388-88f29a started
+worker-5  | 2026-11-13T13:42:22.361Z 755725bfc388-88f29a reaper recovered 6931->queued
+worker-5  | 2026-11-13T13:42:53.850Z 755725bfc388-4e66fc started
+worker-5  | 2026-11-13T13:42:53.914Z 755725bfc388-4e66fc reaper recovered 7973->queued
+worker-5  | 2026-11-13T13:43:24.698Z 755725bfc388-bf0cbf started
+worker-5  | 2026-11-13T13:43:46.789Z 755725bfc388-bf0cbf reaper recovered 9689->queued
+worker-5  | 2026-11-13T13:44:32.877Z 755725bfc388-bf0cbf reaper recovered 11177->queued
+worker-5  | 2026-11-13T13:44:47.107Z 755725bfc388-697633 started
+worker-5  | 2026-11-13T13:45:03.186Z 755725bfc388-697633 reaper recovered 12197->queued
+worker-5  | 2026-11-13T13:45:12.573Z 755725bfc388-b677a0 started
+worker-5  | 2026-11-13T13:45:42.668Z 755725bfc388-b677a0 reaper recovered 13577->queued
+worker-5  | 2026-11-13T13:45:46.156Z 755725bfc388-ad7994 started
+worker-5  | 2026-11-13T13:45:46.206Z 755725bfc388-ad7994 reaper recovered 13673->queued
+worker-5  | 2026-11-13T13:45:56.126Z 755725bfc388-3d2418 started
+worker-5  | 2026-11-13T13:46:10.195Z 755725bfc388-3d2418 reaper recovered 14549->queued
+worker-5  | 2026-11-13T13:46:16.515Z 755725bfc388-4381ce started
+worker-5  | 2026-11-13T13:46:40.654Z 755725bfc388-4381ce reaper recovered 15520->queued
+worker-5  | 2026-11-13T13:46:46.597Z 755725bfc388-fc6913 started
+worker-5  | 2026-11-13T13:46:46.634Z 755725bfc388-fc6913 reaper recovered 15717->queued
+worker-5  | 2026-11-13T13:46:54.650Z 755725bfc388-fc6913 reaper recovered 15988->queued
+worker-8  | 2026-11-13T13:43:41.194Z 9d6e14536a6c-869ba2 reaper recovered 9355->queued
+worker-8  | 2026-11-13T13:43:44.186Z 9d6e14536a6c-f8248e started
+worker-8  | 2026-11-13T13:43:53.832Z 9d6e14536a6c-e52538 started
+worker-8  | 2026-11-13T13:43:58.792Z 9d6e14536a6c-e68ec2 started
+worker-8  | 2026-11-13T13:44:14.980Z 9d6e14536a6c-816d57 started
+worker-8  | 2026-11-13T13:44:27.226Z 9d6e14536a6c-d56134 started
+worker-8  | 2026-11-13T13:44:30.384Z 9d6e14536a6c-11cb70 started
+worker-8  | 2026-11-13T13:44:38.498Z 9d6e14536a6c-11cb70 reaper recovered 11177->queued
+worker-8  | 2026-11-13T13:44:44.511Z 9d6e14536a6c-11cb70 reaper recovered 11568->queued
+worker-8  | 2026-11-13T13:44:52.524Z 9d6e14536a6c-11cb70 reaper recovered 11818->queued
+worker-8  | 2026-11-13T13:45:00.900Z 9d6e14536a6c-a431d1 started
+worker-8  | 2026-11-13T13:45:08.998Z 9d6e14536a6c-a431d1 reaper recovered 12429->queued
+worker-8  | 2026-11-13T13:45:21.013Z 9d6e14536a6c-a431d1 reaper recovered 12833->queued
+worker-8  | 2026-11-13T13:45:37.032Z 9d6e14536a6c-a431d1 reaper recovered 13217->queued
+worker-8  | 2026-11-13T13:45:51.049Z 9d6e14536a6c-a431d1 reaper recovered 13894->queued
+worker-8  | 2026-11-13T13:45:59.156Z 9d6e14536a6c-e2544f started
+worker-8  | 2026-11-13T13:46:07.225Z 9d6e14536a6c-e2544f reaper recovered 14439->queued
+worker-8  | 2026-11-13T13:46:13.255Z 9d6e14536a6c-e2544f reaper recovered 14642->queued
+worker-8  | 2026-11-13T13:46:19.274Z 9d6e14536a6c-e2544f reaper recovered 14848->queued
+worker-8  | 2026-11-13T13:46:27.284Z 9d6e14536a6c-e2544f reaper recovered 15097->queued
+worker-8  | 2026-11-13T13:46:35.138Z 9d6e14536a6c-c613b0 started
+worker-8  | 2026-11-13T13:46:44.045Z 9d6e14536a6c-558596 started
+worker-8  | 2026-11-13T13:46:49.590Z 9d6e14536a6c-b411f6 started
+worker-8  | 2026-11-13T13:46:49.645Z 9d6e14536a6c-b411f6 reaper recovered 15810->queued
+worker-7  | 2026-11-13T13:38:27.294Z 6b48306fb835-0f7fe1 started
+worker-7  | 2026-11-13T13:39:26.874Z 6b48306fb835-29587b started
+worker-7  | 2026-11-13T13:39:28.985Z 6b48306fb835-29587b reaper recovered 1398->queued
+worker-7  | 2026-11-13T13:39:33.872Z 6b48306fb835-47bc2b started
+worker-7  | 2026-11-13T13:39:51.771Z 6b48306fb835-aec30e started
+worker-7  | 2026-11-13T13:40:24.916Z 6b48306fb835-e01c78 started
+worker-7  | 2026-11-13T13:40:24.977Z 6b48306fb835-e01c78 reaper recovered 3175->queued
+worker-7  | 2026-11-13T13:40:30.997Z 6b48306fb835-e01c78 reaper recovered 3382->queued
+worker-7  | 2026-11-13T13:40:39.029Z 6b48306fb835-e01c78 reaper recovered 3633->queued
+worker-7  | 2026-11-13T13:40:58.024Z 6b48306fb835-0e9c24 started
+worker-7  | 2026-11-13T13:41:07.062Z 6b48306fb835-c396dd started
+worker-7  | 2026-11-13T13:41:36.904Z 6b48306fb835-3fa976 started
+worker-7  | 2026-11-13T13:41:42.980Z 6b48306fb835-3fa976 reaper recovered 5692->queued
+worker-7  | 2026-11-13T13:41:48.991Z 6b48306fb835-3fa976 reaper recovered 5890->queued
+worker-7  | 2026-11-13T13:41:55.004Z 6b48306fb835-3fa976 reaper recovered 6092->queued
+worker-7  | 2026-11-13T13:42:01.017Z 6b48306fb835-3fa976 reaper recovered 6285->queued
+worker-7  | 2026-11-13T13:42:07.030Z 6b48306fb835-3fa976 reaper recovered 6483->queued
+worker-7  | 2026-11-13T13:42:13.081Z 6b48306fb835-3fa976 reaper recovered 6645->queued
+worker-7  | 2026-11-13T13:42:19.097Z 6b48306fb835-3fa976 reaper recovered 6833->queued
+worker-7  | 2026-11-13T13:42:25.110Z 6b48306fb835-3fa976 reaper recovered 7018->queued
+worker-7  | 2026-11-13T13:42:51.381Z 6b48306fb835-49dcd2 started
+worker-7  | 2026-11-13T13:43:35.708Z 6b48306fb835-0f7ae1 started
+worker-7  | 2026-11-13T13:43:35.769Z 6b48306fb835-0f7ae1 reaper recovered 9355->queued
+worker-7  | 2026-11-13T13:43:41.205Z 6b48306fb835-fe3184 started
+worker-7  | 2026-11-13T13:43:46.594Z 6b48306fb835-de116b started
+worker-7  | 2026-11-13T13:43:56.655Z 6b48306fb835-de116b reaper recovered 10005->queued
+worker-7  | 2026-11-13T13:44:06.673Z 6b48306fb835-de116b reaper recovered 10304->queued
+worker-7  | 2026-11-13T13:44:14.683Z 6b48306fb835-de116b reaper recovered 10593->queued
+worker-7  | 2026-11-13T13:44:26.717Z 6b48306fb835-de116b reaper recovered 10987->queued
+worker-7  | 2026-11-13T13:45:18.337Z 6b48306fb835-311466 started
+worker-7  | 2026-11-13T13:45:18.376Z 6b48306fb835-311466 reaper recovered 12738->queued
+worker-7  | 2026-11-13T13:45:28.388Z 6b48306fb835-311466 reaper recovered 13102->queued
+worker-7  | 2026-11-13T13:45:34.398Z 6b48306fb835-311466 reaper recovered 13311->queued
+worker-7  | 2026-11-13T13:45:37.140Z 6b48306fb835-a13c01 started
+worker-7  | 2026-11-13T13:45:50.817Z 6b48306fb835-fb8abd started
+worker-7  | 2026-11-13T13:45:58.888Z 6b48306fb835-fb8abd reaper recovered 14155->queued
+worker-7  | 2026-11-13T13:46:04.900Z 6b48306fb835-fb8abd reaper recovered 14354->queued
+worker-7  | 2026-11-13T13:46:10.501Z 6b48306fb835-cdc670 started
+worker-7  | 2026-11-13T13:46:22.577Z 6b48306fb835-cdc670 reaper recovered 14941->queued
+worker-7  | 2026-11-13T13:46:24.584Z 6b48306fb835-cdc670 reaper recovered 15014->queued
+worker-7  | 2026-11-13T13:46:37.976Z 6b48306fb835-a8a146 started
+worker-7  | 2026-11-13T13:46:40.888Z 6b48306fb835-e2ab7e started
+worker-7  | 2026-11-13T13:46:54.788Z 6b48306fb835-0f95ab started
+worker-2  | 2026-11-13T13:38:23.118Z 385e9d5884c6-4a8126 started
+worker-2  | 2026-11-13T13:38:23.166Z 385e9d5884c6-4a8126 reaper error connect ECONNREFUSED 172.19.0.2:5432
+worker-2  | 2026-11-13T13:38:23.169Z 385e9d5884c6-4a8126 error connect ECONNREFUSED 172.19.0.2:5432
+worker-2  | 2026-11-13T13:39:07.345Z 385e9d5884c6-4a8126 reaper recovered 720->queued
+worker-2  | 2026-11-13T13:39:15.369Z 385e9d5884c6-4a8126 reaper recovered 974->queued
+worker-2  | 2026-11-13T13:39:25.458Z 385e9d5884c6-4a8126 reaper recovered 1293->queued
+worker-2  | 2026-11-13T13:39:36.421Z 385e9d5884c6-e7c55b started
+worker-2  | 2026-11-13T13:39:42.250Z 385e9d5884c6-f1f3f1 started
+worker-2  | 2026-11-13T13:40:05.691Z 385e9d5884c6-74f522 started
+worker-2  | 2026-11-13T13:40:27.813Z 385e9d5884c6-74f522 reaper recovered 3265->queued
+worker-2  | 2026-11-13T13:40:45.626Z 385e9d5884c6-a1869c started
+worker-2  | 2026-11-13T13:40:57.722Z 385e9d5884c6-a1869c reaper recovered 4243->queued
+worker-2  | 2026-11-13T13:41:03.735Z 385e9d5884c6-a1869c reaper recovered 4421->queued
+worker-2  | 2026-11-13T13:41:09.749Z 385e9d5884c6-a1869c reaper recovered 4592->queued
+worker-2  | 2026-11-13T13:41:17.765Z 385e9d5884c6-a1869c reaper recovered 4847->queued
+worker-2  | 2026-11-13T13:41:23.782Z 385e9d5884c6-a1869c reaper recovered 5068->queued
+worker-2  | 2026-11-13T13:41:27.926Z 385e9d5884c6-cd6d02 started
+worker-2  | 2026-11-13T13:42:09.929Z 385e9d5884c6-411947 started
+worker-2  | 2026-11-13T13:42:25.686Z 385e9d5884c6-530c85 started
+worker-2  | 2026-11-13T13:42:33.828Z 385e9d5884c6-530c85 reaper recovered 7311->queued
+worker-2  | 2026-11-13T13:42:41.842Z 385e9d5884c6-530c85 reaper recovered 7556->queued
+worker-2  | 2026-11-13T13:42:45.124Z 385e9d5884c6-364969 started
+worker-2  | 2026-11-13T13:42:59.198Z 385e9d5884c6-364969 reaper recovered 8142->queued
+worker-2  | 2026-11-13T13:43:05.216Z 385e9d5884c6-364969 reaper recovered 8332->queued
+worker-2  | 2026-11-13T13:43:19.343Z 385e9d5884c6-364969 reaper recovered 8793->queued
+worker-2  | 2026-11-13T13:43:27.386Z 385e9d5884c6-f6b04c started
+worker-2  | 2026-11-13T13:43:27.445Z 385e9d5884c6-f6b04c reaper recovered 9075->queued
+worker-2  | 2026-11-13T13:43:38.760Z 385e9d5884c6-8d9327 started
+worker-2  | 2026-11-13T13:43:51.546Z 385e9d5884c6-0455eb started
+worker-2  | 2026-11-13T13:43:56.309Z 385e9d5884c6-fd06c3 started
+worker-2  | 2026-11-13T13:44:01.191Z 385e9d5884c6-f57757 started
+worker-2  | 2026-11-13T13:44:18.552Z 385e9d5884c6-b09781 started
+worker-2  | 2026-11-13T13:44:21.780Z 385e9d5884c6-e5fc94 started
+worker-2  | 2026-11-13T13:44:32.981Z 385e9d5884c6-67ff8d started
+worker-2  | 2026-11-13T13:44:47.150Z 385e9d5884c6-67ff8d reaper recovered 11662->queued
+worker-2  | 2026-11-13T13:44:49.789Z 385e9d5884c6-f55476 started
+worker-2  | 2026-11-13T13:45:20.631Z 385e9d5884c6-0dca74 started
+worker-2  | 2026-11-13T13:45:31.873Z 385e9d5884c6-af0d78 started
+worker-2  | 2026-11-13T13:45:39.856Z 385e9d5884c6-9ad1c1 started
+worker-2  | 2026-11-13T13:45:39.922Z 385e9d5884c6-9ad1c1 reaper recovered 13483->queued
+worker-2  | 2026-11-13T13:45:42.868Z 385e9d5884c6-e67736 started
+worker-2  | 2026-11-13T13:46:21.881Z 385e9d5884c6-9cb721 started
+worker-2  | 2026-11-13T13:46:30.165Z 385e9d5884c6-6478ce started
+worker-2  | 2026-11-13T13:46:51.998Z 385e9d5884c6-dfc5ea started
+worker-2  | 2026-11-13T13:46:52.060Z 385e9d5884c6-dfc5ea reaper recovered 15912->queued
+worker-1  | 2026-11-13T13:38:23.116Z 2f6686ecc71c-febb70 started
+worker-1  | 2026-11-13T13:38:23.166Z 2f6686ecc71c-febb70 reaper error connect ECONNREFUSED 172.19.0.2:5432
+worker-1  | 2026-11-13T13:38:23.169Z 2f6686ecc71c-febb70 error connect ECONNREFUSED 172.19.0.2:5432
+worker-1  | 2026-11-13T13:38:50.659Z 2f6686ecc71c-b2be2f started
+worker-1  | 2026-11-13T13:39:08.294Z 2f6686ecc71c-4b848a started
+worker-1  | 2026-11-13T13:39:10.421Z 2f6686ecc71c-4b848a reaper recovered 832->queued
+worker-1  | 2026-11-13T13:39:20.258Z 2f6686ecc71c-9e7fb9 started
+worker-1  | 2026-11-13T13:39:32.398Z 2f6686ecc71c-9e7fb9 reaper recovered 1529->queued
+worker-1  | 2026-11-13T13:39:39.471Z 2f6686ecc71c-3fff49 started
+worker-1  | 2026-11-13T13:39:44.831Z 2f6686ecc71c-b6c4c4 started
+worker-1  | 2026-11-13T13:39:50.903Z 2f6686ecc71c-b6c4c4 reaper recovered 2100->queued
+worker-1  | 2026-11-13T13:39:54.182Z 2f6686ecc71c-d64609 started
+worker-1  | 2026-11-13T13:39:54.229Z 2f6686ecc71c-d64609 reaper recovered 2213->queued
+worker-1  | 2026-11-13T13:39:58.028Z 2f6686ecc71c-7e6911 started
+worker-1  | 2026-11-13T13:40:00.125Z 2f6686ecc71c-7e6911 reaper recovered 2408->queued
+worker-1  | 2026-11-13T13:40:14.157Z 2f6686ecc71c-7e6911 reaper recovered 2829->queued
+worker-1  | 2026-11-13T13:40:30.968Z 2f6686ecc71c-1a8e70 started
+worker-1  | 2026-11-13T13:40:36.369Z 2f6686ecc71c-cdf659 started
+worker-1  | 2026-11-13T13:40:42.421Z 2f6686ecc71c-cdf659 reaper recovered 3737->queued
+worker-1  | 2026-11-13T13:40:48.441Z 2f6686ecc71c-cdf659 reaper recovered 3932->queued
+worker-1  | 2026-11-13T13:41:00.462Z 2f6686ecc71c-cdf659 reaper recovered 4331->queued
+worker-1  | 2026-11-13T13:41:06.484Z 2f6686ecc71c-cdf659 reaper recovered 4496->queued
+worker-1  | 2026-11-13T13:41:30.565Z 2f6686ecc71c-cdf659 reaper recovered 5303->queued
+worker-1  | 2026-11-13T13:41:36.584Z 2f6686ecc71c-cdf659 reaper recovered 5486->queued
+worker-1  | 2026-11-13T13:41:45.935Z 2f6686ecc71c-950a3b started
+worker-1  | 2026-11-13T13:42:04.046Z 2f6686ecc71c-950a3b reaper recovered 6404->queued
+worker-1  | 2026-11-13T13:42:28.320Z 2f6686ecc71c-dd742e started
+worker-1  | 2026-11-13T13:42:38.602Z 2f6686ecc71c-afe18b started
+worker-1  | 2026-11-13T13:42:44.700Z 2f6686ecc71c-afe18b reaper recovered 7644->queued
+worker-1  | 2026-11-13T13:43:02.732Z 2f6686ecc71c-1a794d started
+worker-1  | 2026-11-13T13:43:07.954Z 2f6686ecc71c-cbb2af started
+worker-1  | 2026-11-13T13:43:30.119Z 2f6686ecc71c-cbb2af reaper recovered 9158->queued
+worker-1  | 2026-11-13T13:43:44.138Z 2f6686ecc71c-cbb2af reaper recovered 9614->queued
+worker-1  | 2026-11-13T13:44:12.231Z 2f6686ecc71c-cbb2af reaper recovered 10513->queued
+worker-1  | 2026-11-13T13:44:20.494Z 2f6686ecc71c-cbb2af reaper recovered 10787->queued
+worker-1  | 2026-11-13T13:44:24.504Z 2f6686ecc71c-cbb2af reaper recovered 10900->queued
+worker-1  | 2026-11-13T13:44:39.281Z 2f6686ecc71c-bba375 started
+worker-1  | 2026-11-13T13:44:44.617Z 2f6686ecc71c-fbff03 started
+worker-1  | 2026-11-13T13:44:54.701Z 2f6686ecc71c-fbff03 reaper recovered 11907->queued
+worker-1  | 2026-11-13T13:45:00.711Z 2f6686ecc71c-fbff03 reaper recovered 12082->queued
+worker-1  | 2026-11-13T13:45:03.648Z 2f6686ecc71c-fcd7ac started
+worker-1  | 2026-11-13T13:45:09.451Z 2f6686ecc71c-22d017 started
+worker-1  | 2026-11-13T13:45:23.536Z 2f6686ecc71c-22d017 reaper recovered 12912->queued
+worker-1  | 2026-11-13T13:45:25.542Z 2f6686ecc71c-22d017 reaper recovered 13003->queued
+worker-1  | 2026-11-13T13:45:29.177Z 2f6686ecc71c-19f8ef started
+worker-1  | 2026-11-13T13:46:02.269Z 2f6686ecc71c-0bb726 started
+worker-1  | 2026-11-13T13:46:16.338Z 2f6686ecc71c-0bb726 reaper recovered 14749->queued
+worker-1  | 2026-11-13T13:46:24.648Z 2f6686ecc71c-567462 started
+worker-1  | 2026-11-13T13:46:32.817Z 2f6686ecc71c-c3d50c started
+worker-1  | 2026-11-13T13:46:32.876Z 2f6686ecc71c-c3d50c reaper recovered 15270->queued
+worker-3  | 2026-11-13T13:38:24.581Z 8646e6847838-bbde67 started
+worker-3  | 2026-11-13T13:38:57.806Z 8646e6847838-510bb3 started
+worker-3  | 2026-11-13T13:39:16.909Z 8646e6847838-789bf4 started
+worker-3  | 2026-11-13T13:39:19.080Z 8646e6847838-789bf4 reaper recovered 1092->queued
+worker-3  | 2026-11-13T13:39:39.155Z 8646e6847838-789bf4 reaper recovered 1733->queued
+worker-3  | 2026-11-13T13:39:57.214Z 8646e6847838-789bf4 reaper recovered 2287->queued
+worker-3  | 2026-11-13T13:40:03.226Z 8646e6847838-789bf4 reaper recovered 2501->queued
+worker-3  | 2026-11-13T13:40:11.241Z 8646e6847838-789bf4 reaper recovered 2749->queued
+worker-3  | 2026-11-13T13:40:17.250Z 8646e6847838-789bf4 reaper recovered 2919->queued
+worker-3  | 2026-11-13T13:40:20.118Z 8646e6847838-693f58 started
+worker-3  | 2026-11-13T13:40:33.685Z 8646e6847838-40938b started
+worker-3  | 2026-11-13T13:40:33.747Z 8646e6847838-40938b reaper recovered 3461->queued
+worker-3  | 2026-11-13T13:41:15.027Z 8646e6847838-1f5278 started
+worker-3  | 2026-11-13T13:41:27.180Z 8646e6847838-1f5278 reaper recovered 5186->queued
+worker-3  | 2026-11-13T13:41:49.570Z 8646e6847838-b41a93 started
+worker-3  | 2026-11-13T13:41:55.303Z 8646e6847838-0dc1a6 started
+worker-3  | 2026-11-13T13:42:07.233Z 8646e6847838-dc478a started
+worker-3  | 2026-11-13T13:42:13.140Z 8646e6847838-c5b10a started
+worker-3  | 2026-11-13T13:42:33.979Z 8646e6847838-9fbfd9 started
+worker-3  | 2026-11-13T13:42:41.958Z 8646e6847838-97d8a4 started
+worker-3  | 2026-11-13T13:42:48.044Z 8646e6847838-97d8a4 reaper recovered 7754->queued
+worker-3  | 2026-11-13T13:43:02.082Z 8646e6847838-97d8a4 reaper recovered 8242->queued
+worker-3  | 2026-11-13T13:43:52.193Z 8646e6847838-97d8a4 reaper recovered 9837->queued
+worker-3  | 2026-11-13T13:43:54.204Z 8646e6847838-97d8a4 reaper recovered 9933->queued
+worker-3  | 2026-11-13T13:44:03.741Z 8646e6847838-422c84 started
+worker-4  | 2026-11-13T13:38:25.260Z 5acb1d4233c3-41a034 started
+worker-4  | 2026-11-13T13:38:51.470Z 5acb1d4233c3-41a034 reaper recovered 74->queued
+worker-4  | 2026-11-13T13:38:55.486Z 5acb1d4233c3-41a034 reaper recovered 395->queued
+worker-4  | 2026-11-13T13:38:59.549Z 5acb1d4233c3-41a034 reaper recovered 520->queued
+worker-4  | 2026-11-13T13:39:03.563Z 5acb1d4233c3-41a034 reaper recovered 641->queued
+worker-4  | 2026-11-13T13:39:13.574Z 5acb1d4233c3-0f7b5d started
+worker-4  | 2026-11-13T13:40:03.357Z 5acb1d4233c3-468e32 started
+worker-4  | 2026-11-13T13:40:14.792Z 5acb1d4233c3-0769b9 started
+worker-4  | 2026-11-13T13:40:22.511Z 5acb1d4233c3-de3530 started
+worker-4  | 2026-11-13T13:40:54.683Z 5acb1d4233c3-de3530 reaper recovered 4143->queued
+worker-4  | 2026-11-13T13:41:09.947Z 5acb1d4233c3-e3344e started
+worker-4  | 2026-11-13T13:41:12.114Z 5acb1d4233c3-e3344e reaper recovered 4683->queued
+worker-4  | 2026-11-13T13:41:33.765Z 5acb1d4233c3-f9bd4d started
+worker-4  | 2026-11-13T13:41:45.827Z 5acb1d4233c3-f9bd4d reaper recovered 5793->queued
+worker-4  | 2026-11-13T13:41:51.865Z 5acb1d4233c3-f9bd4d reaper recovered 6002->queued
+worker-4  | 2026-11-13T13:41:57.902Z 5acb1d4233c3-f9bd4d reaper recovered 6202->queued
+worker-4  | 2026-11-13T13:42:15.944Z 5acb1d4233c3-f9bd4d reaper recovered 6730->queued
+worker-4  | 2026-11-13T13:42:30.859Z 5acb1d4233c3-f2c57d started
+worker-4  | 2026-11-13T13:42:31.044Z 5acb1d4233c3-f2c57d reaper recovered 7224->queued
+worker-4  | 2026-11-13T13:42:37.057Z 5acb1d4233c3-f2c57d reaper recovered 7406->queued
+worker-4  | 2026-11-13T13:42:39.068Z 5acb1d4233c3-f2c57d reaper recovered 7475->queued
+worker-4  | 2026-11-13T13:42:51.104Z 5acb1d4233c3-f2c57d reaper recovered 7861->queued
+worker-4  | 2026-11-13T13:42:59.809Z 5acb1d4233c3-48b284 started
+worker-4  | 2026-11-13T13:43:07.987Z 5acb1d4233c3-48b284 reaper recovered 8404->queued
+worker-4  | 2026-11-13T13:43:13.722Z 5acb1d4233c3-5d0f2e started
+worker-4  | 2026-11-13T13:43:16.791Z 5acb1d4233c3-2e69b1 started
+worker-4  | 2026-11-13T13:43:19.852Z 5acb1d4233c3-80269f started
+worker-4  | 2026-11-13T13:43:30.141Z 5acb1d4233c3-bcb0b4 started
+worker-4  | 2026-11-13T13:43:33.302Z 5acb1d4233c3-414c2b started
+worker-4  | 2026-11-13T13:43:49.384Z 5acb1d4233c3-414c2b reaper recovered 9774->queued
+worker-4  | 2026-11-13T13:44:01.401Z 5acb1d4233c3-414c2b reaper recovered 10144->queued
+worker-4  | 2026-11-13T13:44:09.524Z 5acb1d4233c3-498993 started
+worker-4  | 2026-11-13T13:44:09.565Z 5acb1d4233c3-498993 reaper recovered 10416->queued
+worker-4  | 2026-11-13T13:44:17.588Z 5acb1d4233c3-498993 reaper recovered 10687->queued
+worker-4  | 2026-11-13T13:44:29.614Z 5acb1d4233c3-498993 reaper recovered 10900->queued
+worker-4  | 2026-11-13T13:44:35.804Z 5acb1d4233c3-f6c78b started
+worker-4  | 2026-11-13T13:44:35.875Z 5acb1d4233c3-f6c78b reaper recovered 11252->queued
+worker-4  | 2026-11-13T13:45:06.410Z 5acb1d4233c3-aa04c4 started
+worker-4  | 2026-11-13T13:45:06.464Z 5acb1d4233c3-aa04c4 reaper recovered 12299->queued
+worker-4  | 2026-11-13T13:45:12.478Z 5acb1d4233c3-aa04c4 reaper recovered 12516->queued
+worker-4  | 2026-11-13T13:45:22.798Z 5acb1d4233c3-c07293 started
+worker-4  | 2026-11-13T13:45:48.861Z 5acb1d4233c3-c07293 reaper recovered 13780->queued
+worker-4  | 2026-11-13T13:45:53.711Z 5acb1d4233c3-2f050a started
+worker-6  | 2026-11-13T13:38:26.682Z 33247f5f4b8a-da36e8 started
+worker-3  | 2026-11-13T13:44:03.798Z 8646e6847838-422c84 reaper recovered 10221->queued
+worker-6  | 2026-11-13T13:38:53.833Z 33247f5f4b8a-f490db started
+worker-6  | 2026-11-13T13:39:22.014Z 33247f5f4b8a-f490db reaper recovered 1189->queued
+worker-6  | 2026-11-13T13:39:30.414Z 33247f5f4b8a-ac0984 started
+worker-6  | 2026-11-13T13:39:44.615Z 33247f5f4b8a-ac0984 reaper recovered 1895->queued
+worker-6  | 2026-11-13T13:40:00.718Z 33247f5f4b8a-9f2701 started
+worker-3  | 2026-11-13T13:44:06.874Z 8646e6847838-1e2247 started
+worker-6  | 2026-11-13T13:40:08.934Z 33247f5f4b8a-c13070 started
+worker-4  | 2026-11-13T13:45:53.757Z 5acb1d4233c3-2f050a reaper recovered 13967->queued
+worker-3  | 2026-11-13T13:44:11.822Z 8646e6847838-f4a759 started
+worker-4  | 2026-11-13T13:46:01.772Z 5acb1d4233c3-2f050a reaper recovered 14240->queued
+worker-4  | 2026-11-13T13:46:37.847Z 5acb1d4233c3-2f050a reaper recovered 15433->queued
+worker-4  | 2026-11-13T13:46:58.043Z 5acb1d4233c3-3a70a6 started
+worker-6  | 2026-11-13T13:40:23.020Z 33247f5f4b8a-c13070 reaper recovered 3102->queued
+worker-6  | 2026-11-13T13:40:42.904Z 33247f5f4b8a-06b420 started
+worker-6  | 2026-11-13T13:40:48.869Z 33247f5f4b8a-c0ae67 started
+worker-3  | 2026-11-13T13:44:41.597Z 8646e6847838-19b11e started
+worker-6  | 2026-11-13T13:40:51.946Z 33247f5f4b8a-f9f6b9 started
+worker-6  | 2026-11-13T13:41:12.420Z 33247f5f4b8a-b605dc started
+worker-6  | 2026-11-13T13:41:20.500Z 33247f5f4b8a-b605dc reaper recovered 4937->queued
+worker-6  | 2026-11-13T13:41:24.626Z 33247f5f4b8a-c62486 started
+worker-6  | 2026-11-13T13:41:31.090Z 33247f5f4b8a-cec305 started
+worker-6  | 2026-11-13T13:41:43.217Z 33247f5f4b8a-3262b0 started
+worker-6  | 2026-11-13T13:41:51.991Z 33247f5f4b8a-024e22 started
+worker-6  | 2026-11-13T13:42:36.380Z 33247f5f4b8a-0249b2 started
+worker-6  | 2026-11-13T13:42:56.505Z 33247f5f4b8a-0249b2 reaper recovered 8060->queued
+worker-6  | 2026-11-13T13:43:10.478Z 33247f5f4b8a-20dcf0 started
+worker-6  | 2026-11-13T13:43:10.548Z 33247f5f4b8a-20dcf0 reaper recovered 8492->queued
+worker-6  | 2026-11-13T13:43:16.560Z 33247f5f4b8a-20dcf0 reaper recovered 8679->queued
+worker-3  | 2026-11-13T13:44:41.702Z 8646e6847838-19b11e reaper recovered 11479->queued
+worker-6  | 2026-11-13T13:43:22.286Z 33247f5f4b8a-2d7fbf started
+worker-6  | 2026-11-13T13:43:38.374Z 33247f5f4b8a-2d7fbf reaper recovered 9255->queued
+worker-6  | 2026-11-13T13:43:49.174Z 33247f5f4b8a-9e3cf4 started
+worker-6  | 2026-11-13T13:43:59.232Z 33247f5f4b8a-9e3cf4 reaper recovered 10063->queued
+worker-6  | 2026-11-13T13:44:24.565Z 33247f5f4b8a-6bcb5c started
+worker-6  | 2026-11-13T13:44:52.037Z 33247f5f4b8a-f5aaad started
+worker-3  | 2026-11-13T13:44:49.717Z 8646e6847838-19b11e reaper recovered 11746->queued
+worker-6  | 2026-11-13T13:44:54.713Z 33247f5f4b8a-2383d9 started
+worker-6  | 2026-11-13T13:46:04.448Z 33247f5f4b8a-4570ff started
+worker-6  | 2026-11-13T13:46:07.274Z 33247f5f4b8a-ce8578 started
+worker-6  | 2026-11-13T13:46:27.002Z 33247f5f4b8a-95e0b3 started
+worker-3  | 2026-11-13T13:44:57.476Z 8646e6847838-d749b7 started
+worker-3  | 2026-11-13T13:44:57.572Z 8646e6847838-d749b7 reaper recovered 11992->queued
+worker-3  | 2026-11-13T13:45:15.428Z 8646e6847838-6f0b56 started
+worker-3  | 2026-11-13T13:45:15.481Z 8646e6847838-6f0b56 reaper recovered 12624->queued
+worker-3  | 2026-11-13T13:45:25.849Z 8646e6847838-096167 started
+worker-3  | 2026-11-13T13:45:31.927Z 8646e6847838-096167 reaper recovered 13217->queued
+worker-3  | 2026-11-13T13:45:34.283Z 8646e6847838-59aea8 started
+worker-3  | 2026-11-13T13:45:48.372Z 8646e6847838-0348d6 started
+worker-3  | 2026-11-13T13:45:56.449Z 8646e6847838-0348d6 reaper recovered 14076->queued
+worker-3  | 2026-11-13T13:46:13.556Z 8646e6847838-c4f8d1 started
+worker-3  | 2026-11-13T13:46:19.658Z 8646e6847838-d26c22 started
+worker-3  | 2026-11-13T13:46:29.709Z 8646e6847838-d26c22 reaper recovered 15183->queued
+worker-3  | 2026-11-13T13:46:35.719Z 8646e6847838-d26c22 reaper recovered 15363->queued
+worker-3  | 2026-11-13T13:46:43.738Z 8646e6847838-d26c22 reaper recovered 15605->queued

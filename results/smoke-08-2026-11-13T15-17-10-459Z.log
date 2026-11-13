@@ -1,0 +1,73 @@
+2026-11-13T15:17:10.461Z START smoke #8: jobs=2000, kill every ~2000ms, API=http://localhost:3000
+2026-11-13T15:17:10.774Z workers running at start: 8
+2026-11-13T15:17:11.235Z submitted 0/2000
+2026-11-13T15:17:14.065Z KILL #1 worker container dbb130cf0efe
+2026-11-13T15:17:14.579Z submitted 1000/2000
+2026-11-13T15:17:17.149Z KILL #2 worker container 80e4f64ff754
+2026-11-13T15:17:19.515Z all submits and cancels sent after 8.6s
+2026-11-13T15:17:19.533Z waiting: 1561 jobs still open
+2026-11-13T15:17:19.953Z KILL #3 worker container 80e4f64ff754
+2026-11-13T15:17:23.051Z KILL #4 worker container 6565afb5cd8b
+2026-11-13T15:17:25.788Z KILL #5 worker container fdb5021fbf3e
+2026-11-13T15:17:28.327Z KILL #6 worker container 8587274bd23b
+2026-11-13T15:17:29.589Z waiting: 1379 jobs still open
+2026-11-13T15:17:31.121Z KILL #7 worker container fdb5021fbf3e
+2026-11-13T15:17:33.784Z KILL #8 worker container 8ae669fe7387
+2026-11-13T15:17:35.917Z KILL #9 worker container dbb130cf0efe
+2026-11-13T15:17:38.324Z KILL #10 worker container fdb5021fbf3e
+2026-11-13T15:17:39.652Z waiting: 1197 jobs still open
+2026-11-13T15:17:41.119Z KILL #11 worker container 0e568050df5e
+2026-11-13T15:17:43.289Z KILL #12 worker container 80e4f64ff754
+2026-11-13T15:17:46.077Z KILL #13 worker container dbb130cf0efe
+2026-11-13T15:17:48.262Z KILL #14 worker container fdb5021fbf3e
+2026-11-13T15:17:49.708Z waiting: 1010 jobs still open
+2026-11-13T15:17:50.644Z KILL #15 worker container 6565afb5cd8b
+2026-11-13T15:17:52.793Z KILL #16 worker container 8587274bd23b
+2026-11-13T15:17:55.673Z KILL #17 worker container dbb130cf0efe
+2026-11-13T15:17:57.935Z KILL #18 worker container dbb130cf0efe
+2026-11-13T15:17:59.753Z waiting: 832 jobs still open
+2026-11-13T15:18:01.139Z KILL #19 worker container 62e297f93ceb
+2026-11-13T15:18:03.681Z KILL #20 worker container 8ae669fe7387
+2026-11-13T15:18:06.621Z KILL #21 worker container fdb5021fbf3e
+2026-11-13T15:18:09.681Z KILL #22 worker container 8ae669fe7387
+2026-11-13T15:18:09.803Z waiting: 647 jobs still open
+2026-11-13T15:18:12.593Z KILL #23 worker container 80e4f64ff754
+2026-11-13T15:18:15.681Z KILL #24 worker container 0e568050df5e
+2026-11-13T15:18:18.130Z KILL #25 worker container 8587274bd23b
+2026-11-13T15:18:19.868Z waiting: 460 jobs still open
+2026-11-13T15:18:20.598Z KILL #26 worker container fdb5021fbf3e
+2026-11-13T15:18:23.708Z KILL #27 worker container 8ae669fe7387
+2026-11-13T15:18:26.457Z KILL #28 worker container 62e297f93ceb
+2026-11-13T15:18:29.262Z KILL #29 worker container fdb5021fbf3e
+2026-11-13T15:18:29.940Z waiting: 276 jobs still open
+2026-11-13T15:18:31.863Z KILL #30 worker container 8587274bd23b
+2026-11-13T15:18:34.668Z KILL #31 worker container 0e568050df5e
+2026-11-13T15:18:38.105Z KILL #32 worker container 0e568050df5e
+2026-11-13T15:18:40.004Z waiting: 98 jobs still open
+2026-11-13T15:18:41.080Z KILL #33 worker container 62e297f93ceb
+2026-11-13T15:18:43.386Z KILL #34 worker container 6565afb5cd8b
+2026-11-13T15:18:46.393Z KILL #35 worker container 80e4f64ff754
+2026-11-13T15:18:49.039Z KILL #36 worker container dbb130cf0efe
+2026-11-13T15:18:50.638Z finished after 99.7s, kills=36
+2026-11-13T15:19:02.870Z 
+2026-11-13T15:19:02.872Z =========== RESULTS ===========
+2026-11-13T15:19:02.875Z PASS  1. no job lost (every key has a job)
+2026-11-13T15:19:02.876Z PASS  1b. no extra jobs (rows == number of keys)
+2026-11-13T15:19:02.878Z PASS  2. duplicate POSTs: exactly one 201, same id for all
+2026-11-13T15:19:02.880Z PASS  3. no job has more than one effect
+2026-11-13T15:19:02.881Z PASS  3b. every succeeded job has an effect
+2026-11-13T15:19:02.882Z PASS  3c. no effect for a job that is not succeeded
+2026-11-13T15:19:02.883Z PASS  3d. effect belongs to the job's final attempt
+2026-11-13T15:19:02.885Z PASS  4. no job stuck in queued or running
+2026-11-13T15:19:02.887Z PASS  5. only expected final states
+2026-11-13T15:19:02.888Z PASS  5b. outcome matches payload (fail flag)
+2026-11-13T15:19:02.890Z PASS  6. an accepted cancel (200/202) always ends as cancelled
+2026-11-13T15:19:02.893Z PASS  7. attempt == number of claims in run_log (no double claim)
+2026-11-13T15:19:02.894Z PASS  8. nothing changed during the 12s quiet period
+2026-11-13T15:19:02.895Z 
+2026-11-13T15:19:02.896Z final states: cancelled=291, failed=34, succeeded=1675
+2026-11-13T15:19:02.897Z workers killed: 36
+2026-11-13T15:19:02.898Z jobs that were started more than once (a worker died mid-job): 34, highest attempt: 2
+2026-11-13T15:19:02.901Z cancel replies: {"200":288,"202":3,"409":87}
+2026-11-13T15:19:02.902Z network errors seen by the harness: 0
+2026-11-13T15:19:02.903Z VERDICT: ALL CHECKS PASSED

@@ -1,0 +1,33 @@
+2026-11-13T10:47:26.752Z START smoke #6: jobs=200, kill every ~2000ms, API=http://localhost:3000
+2026-11-13T10:47:27.111Z workers running at start: 8
+2026-11-13T10:47:27.728Z submitted 0/200
+2026-11-13T10:47:30.403Z KILL #1 worker container 392229e4865b
+2026-11-13T10:47:30.778Z all submits and cancels sent after 3.5s
+2026-11-13T10:47:30.786Z waiting: 125 jobs still open
+2026-11-13T10:47:33.352Z KILL #2 worker container 5cd2c9f88d8e
+2026-11-13T10:47:35.707Z KILL #3 worker container 3ba9cb130633
+2026-11-13T10:47:38.356Z KILL #4 worker container 712b819019f1
+2026-11-13T10:47:40.750Z KILL #5 worker container a7ad1fa30df5
+2026-11-13T10:47:43.092Z finished after 15.8s, kills=5
+2026-11-13T10:47:55.177Z 
+2026-11-13T10:47:55.179Z =========== RESULTS ===========
+2026-11-13T10:47:55.180Z PASS  1. no job lost (every key has a job)
+2026-11-13T10:47:55.182Z PASS  1b. no extra jobs (rows == number of keys)
+2026-11-13T10:47:55.185Z PASS  2. duplicate POSTs: exactly one 201, same id for all
+2026-11-13T10:47:55.188Z PASS  3. no job has more than one effect
+2026-11-13T10:47:55.193Z PASS  3b. every succeeded job has an effect
+2026-11-13T10:47:55.210Z PASS  3c. no effect for a job that is not succeeded
+2026-11-13T10:47:55.220Z PASS  3d. effect belongs to the job's final attempt
+2026-11-13T10:47:55.236Z PASS  4. no job stuck in queued or running
+2026-11-13T10:47:55.248Z PASS  5. only expected final states
+2026-11-13T10:47:55.250Z PASS  5b. outcome matches payload (fail flag)
+2026-11-13T10:47:55.255Z PASS  6. an accepted cancel (200/202) always ends as cancelled
+2026-11-13T10:47:55.263Z PASS  7. attempt == number of claims in run_log (no double claim)
+2026-11-13T10:47:55.265Z PASS  8. nothing changed during the 12s quiet period
+2026-11-13T10:47:55.271Z 
+2026-11-13T10:47:55.283Z final states: cancelled=20, failed=4, succeeded=176
+2026-11-13T10:47:55.299Z workers killed: 5
+2026-11-13T10:47:55.305Z jobs that were started more than once (a worker died mid-job): 3, highest attempt: 2
+2026-11-13T10:47:55.309Z cancel replies: {"200":19,"202":2,"409":16}
+2026-11-13T10:47:55.322Z network errors seen by the harness: 0
+2026-11-13T10:47:55.332Z VERDICT: ALL CHECKS PASSED

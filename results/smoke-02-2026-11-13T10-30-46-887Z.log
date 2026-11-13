@@ -1,0 +1,6 @@
+2026-11-13T10:30:46.889Z START smoke #2: jobs=200, kill every ~2000ms, API=http://localhost:3000
+2026-11-13T10:30:47.261Z workers running at start: 8
+2026-11-13T10:30:47.366Z HARNESS CRASHED: error: password authentication failed for user "queue"
+    at C:\Users\tanma\Desktop\soup-queue\harness\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///C:/Users/tanma/Desktop/soup-queue/harness/chaos.js:126:3)

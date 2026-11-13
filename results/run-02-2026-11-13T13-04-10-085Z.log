@@ -1,0 +1,251 @@
+2026-11-13T13:04:10.088Z START run #2: jobs=10000, kill every ~2000ms, API=http://localhost:3000
+2026-11-13T13:04:10.532Z workers running at start: 8
+2026-11-13T13:04:11.472Z submitted 0/10000
+2026-11-13T13:04:13.791Z KILL #1 worker container 5c7cb1888e13
+2026-11-13T13:04:16.195Z submitted 1000/10000
+2026-11-13T13:04:17.707Z KILL #2 worker container 2e67a1e82b1b
+2026-11-13T13:04:20.694Z submitted 2000/10000
+2026-11-13T13:04:21.429Z KILL #3 worker container f907f65fe21a
+2026-11-13T13:04:23.200Z submitted 3000/10000
+2026-11-13T13:04:24.650Z KILL #4 worker container f907f65fe21a
+2026-11-13T13:04:26.044Z submitted 4000/10000
+2026-11-13T13:04:28.161Z KILL #5 worker container f907f65fe21a
+2026-11-13T13:04:28.866Z submitted 5000/10000
+2026-11-13T13:04:31.108Z submitted 6000/10000
+2026-11-13T13:04:31.217Z KILL #6 worker container 2ad19c46e3a7
+2026-11-13T13:04:33.177Z submitted 7000/10000
+2026-11-13T13:04:34.054Z KILL #7 worker container 2e67a1e82b1b
+2026-11-13T13:04:35.469Z submitted 8000/10000
+2026-11-13T13:04:37.318Z KILL #8 worker container 2e67a1e82b1b
+2026-11-13T13:04:38.412Z submitted 9000/10000
+2026-11-13T13:04:40.557Z KILL #9 worker container 2ad19c46e3a7
+2026-11-13T13:04:43.102Z KILL #10 worker container 7c6d021ab2a6
+2026-11-13T13:04:43.413Z all submits and cancels sent after 32.7s
+2026-11-13T13:04:43.479Z waiting: 7917 jobs still open
+2026-11-13T13:04:45.373Z KILL #11 worker container 3b749e5326f1
+2026-11-13T13:04:47.754Z KILL #12 worker container 68d12e21d6a6
+2026-11-13T13:04:50.230Z KILL #13 worker container 9fc522d46aad
+2026-11-13T13:04:52.531Z KILL #14 worker container 3b749e5326f1
+2026-11-13T13:04:53.556Z waiting: 7735 jobs still open
+2026-11-13T13:04:55.515Z KILL #15 worker container 7c6d021ab2a6
+2026-11-13T13:04:58.460Z KILL #16 worker container 9fc522d46aad
+2026-11-13T13:05:01.110Z KILL #17 worker container 2e67a1e82b1b
+2026-11-13T13:05:03.624Z waiting: 7550 jobs still open
+2026-11-13T13:05:04.033Z KILL #18 worker container 5c7cb1888e13
+2026-11-13T13:05:07.023Z KILL #19 worker container f907f65fe21a
+2026-11-13T13:05:09.905Z KILL #20 worker container 68d12e21d6a6
+2026-11-13T13:05:12.557Z KILL #21 worker container 7c6d021ab2a6
+2026-11-13T13:05:13.687Z waiting: 7366 jobs still open
+2026-11-13T13:05:15.354Z KILL #22 worker container 3b749e5326f1
+2026-11-13T13:05:18.184Z KILL #23 worker container 7c6d021ab2a6
+2026-11-13T13:05:21.031Z KILL #24 worker container 2e67a1e82b1b
+2026-11-13T13:05:23.371Z KILL #25 worker container 68d12e21d6a6
+2026-11-13T13:05:23.762Z waiting: 7188 jobs still open
+2026-11-13T13:05:26.346Z KILL #26 worker container 7c6d021ab2a6
+2026-11-13T13:05:28.914Z KILL #27 worker container 5c7cb1888e13
+2026-11-13T13:05:31.943Z KILL #28 worker container f907f65fe21a
+2026-11-13T13:05:33.834Z waiting: 7000 jobs still open
+2026-11-13T13:05:35.060Z KILL #29 worker container 68d12e21d6a6
+2026-11-13T13:05:37.552Z KILL #30 worker container 2e67a1e82b1b
+2026-11-13T13:05:39.828Z KILL #31 worker container 68d12e21d6a6
+2026-11-13T13:05:42.540Z KILL #32 worker container 5c7cb1888e13
+2026-11-13T13:05:43.915Z waiting: 6816 jobs still open
+2026-11-13T13:05:44.990Z KILL #33 worker container 7c6d021ab2a6
+2026-11-13T13:05:47.641Z KILL #34 worker container 7c6d021ab2a6
+2026-11-13T13:05:49.961Z KILL #35 worker container 9fc522d46aad
+2026-11-13T13:05:52.610Z KILL #36 worker container 2e67a1e82b1b
+2026-11-13T13:05:53.960Z waiting: 6633 jobs still open
+2026-11-13T13:05:55.609Z KILL #37 worker container 68d12e21d6a6
+2026-11-13T13:05:58.554Z KILL #38 worker container 7c6d021ab2a6
+2026-11-13T13:06:01.337Z KILL #39 worker container 7c6d021ab2a6
+2026-11-13T13:06:04.015Z waiting: 6443 jobs still open
+2026-11-13T13:06:04.067Z KILL #40 worker container 2e67a1e82b1b
+2026-11-13T13:06:07.315Z KILL #41 worker container 2ad19c46e3a7
+2026-11-13T13:06:10.387Z KILL #42 worker container 7c6d021ab2a6
+2026-11-13T13:06:13.314Z KILL #43 worker container 7c6d021ab2a6
+2026-11-13T13:06:14.082Z waiting: 6254 jobs still open
+2026-11-13T13:06:15.578Z KILL #44 worker container 2ad19c46e3a7
+2026-11-13T13:06:18.040Z KILL #45 worker container 68d12e21d6a6
+2026-11-13T13:06:20.632Z KILL #46 worker container 9fc522d46aad
+2026-11-13T13:06:22.889Z KILL #47 worker container 2ad19c46e3a7
+2026-11-13T13:06:24.183Z waiting: 6073 jobs still open
+2026-11-13T13:06:25.690Z KILL #48 worker container 3b749e5326f1
+2026-11-13T13:06:28.190Z KILL #49 worker container f907f65fe21a
+2026-11-13T13:06:30.521Z KILL #50 worker container 68d12e21d6a6
+2026-11-13T13:06:33.330Z KILL #51 worker container 68d12e21d6a6
+2026-11-13T13:06:34.246Z waiting: 5890 jobs still open
+2026-11-13T13:06:35.609Z KILL #52 worker container 5c7cb1888e13
+2026-11-13T13:06:38.511Z KILL #53 worker container 7c6d021ab2a6
+2026-11-13T13:06:41.005Z KILL #54 worker container 9fc522d46aad
+2026-11-13T13:06:44.136Z KILL #55 worker container f907f65fe21a
+2026-11-13T13:06:44.335Z waiting: 5704 jobs still open
+2026-11-13T13:06:46.655Z KILL #56 worker container 7c6d021ab2a6
+2026-11-13T13:06:49.211Z KILL #57 worker container 68d12e21d6a6
+2026-11-13T13:06:51.763Z KILL #58 worker container 7c6d021ab2a6
+2026-11-13T13:06:54.249Z KILL #59 worker container 2e67a1e82b1b
+2026-11-13T13:06:54.398Z waiting: 5523 jobs still open
+2026-11-13T13:06:57.076Z KILL #60 worker container 68d12e21d6a6
+2026-11-13T13:07:00.279Z KILL #61 worker container f907f65fe21a
+2026-11-13T13:07:03.133Z KILL #62 worker container f907f65fe21a
+2026-11-13T13:07:04.484Z waiting: 5342 jobs still open
+2026-11-13T13:07:06.283Z KILL #63 worker container 2e67a1e82b1b
+2026-11-13T13:07:08.796Z KILL #64 worker container 2ad19c46e3a7
+2026-11-13T13:07:11.799Z KILL #65 worker container 3b749e5326f1
+2026-11-13T13:07:14.311Z KILL #66 worker container 2e67a1e82b1b
+2026-11-13T13:07:14.556Z waiting: 5156 jobs still open
+2026-11-13T13:07:16.659Z KILL #67 worker container 3b749e5326f1
+2026-11-13T13:07:19.817Z KILL #68 worker container 9fc522d46aad
+2026-11-13T13:07:22.499Z KILL #69 worker container 5c7cb1888e13
+2026-11-13T13:07:24.638Z waiting: 4973 jobs still open
+2026-11-13T13:07:25.504Z KILL #70 worker container 68d12e21d6a6
+2026-11-13T13:07:28.565Z KILL #71 worker container 7c6d021ab2a6
+2026-11-13T13:07:30.833Z KILL #72 worker container 2e67a1e82b1b
+2026-11-13T13:07:33.042Z KILL #73 worker container f907f65fe21a
+2026-11-13T13:07:34.702Z waiting: 4786 jobs still open
+2026-11-13T13:07:35.591Z KILL #74 worker container 3b749e5326f1
+2026-11-13T13:07:37.982Z KILL #75 worker container 5c7cb1888e13
+2026-11-13T13:07:41.017Z KILL #76 worker container 68d12e21d6a6
+2026-11-13T13:07:43.382Z KILL #77 worker container f907f65fe21a
+2026-11-13T13:07:44.783Z waiting: 4604 jobs still open
+2026-11-13T13:07:45.895Z KILL #78 worker container f907f65fe21a
+2026-11-13T13:07:48.155Z KILL #79 worker container 7c6d021ab2a6
+2026-11-13T13:07:50.724Z KILL #80 worker container 7c6d021ab2a6
+2026-11-13T13:07:53.931Z KILL #81 worker container 7c6d021ab2a6
+2026-11-13T13:07:54.863Z waiting: 4419 jobs still open
+2026-11-13T13:07:56.446Z KILL #82 worker container 68d12e21d6a6
+2026-11-13T13:07:58.694Z KILL #83 worker container 7c6d021ab2a6
+2026-11-13T13:08:01.332Z KILL #84 worker container 3b749e5326f1
+2026-11-13T13:08:03.853Z KILL #85 worker container 3b749e5326f1
+2026-11-13T13:08:04.935Z waiting: 4239 jobs still open
+2026-11-13T13:08:06.782Z KILL #86 worker container 5c7cb1888e13
+2026-11-13T13:08:10.982Z KILL #87 worker container 2ad19c46e3a7
+2026-11-13T13:08:13.750Z KILL #88 worker container 5c7cb1888e13
+2026-11-13T13:08:15.027Z waiting: 4063 jobs still open
+2026-11-13T13:08:17.337Z KILL #89 worker container 7c6d021ab2a6
+2026-11-13T13:08:20.119Z KILL #90 worker container 3b749e5326f1
+2026-11-13T13:08:22.867Z KILL #91 worker container 2ad19c46e3a7
+2026-11-13T13:08:25.119Z waiting: 3880 jobs still open
+2026-11-13T13:08:25.458Z KILL #92 worker container 68d12e21d6a6
+2026-11-13T13:08:27.789Z KILL #93 worker container 2e67a1e82b1b
+2026-11-13T13:08:30.895Z KILL #94 worker container 2ad19c46e3a7
+2026-11-13T13:08:33.862Z KILL #95 worker container 9fc522d46aad
+2026-11-13T13:08:35.190Z waiting: 3694 jobs still open
+2026-11-13T13:08:37.002Z KILL #96 worker container f907f65fe21a
+2026-11-13T13:08:39.828Z KILL #97 worker container f907f65fe21a
+2026-11-13T13:08:42.540Z KILL #98 worker container 7c6d021ab2a6
+2026-11-13T13:08:45.271Z waiting: 3510 jobs still open
+2026-11-13T13:08:45.964Z KILL #99 worker container 9fc522d46aad
+2026-11-13T13:08:48.236Z KILL #100 worker container 2ad19c46e3a7
+2026-11-13T13:08:51.346Z KILL #101 worker container 2e67a1e82b1b
+2026-11-13T13:08:54.214Z KILL #102 worker container 2e67a1e82b1b
+2026-11-13T13:08:55.334Z waiting: 3325 jobs still open
+2026-11-13T13:08:56.988Z KILL #103 worker container 3b749e5326f1
+2026-11-13T13:08:59.561Z KILL #104 worker container 5c7cb1888e13
+2026-11-13T13:09:02.020Z KILL #105 worker container f907f65fe21a
+2026-11-13T13:09:05.126Z KILL #106 worker container 2ad19c46e3a7
+2026-11-13T13:09:05.411Z waiting: 3142 jobs still open
+2026-11-13T13:09:07.769Z KILL #107 worker container 2e67a1e82b1b
+2026-11-13T13:09:10.842Z KILL #108 worker container 2ad19c46e3a7
+2026-11-13T13:09:13.145Z KILL #109 worker container 3b749e5326f1
+2026-11-13T13:09:15.454Z waiting: 2958 jobs still open
+2026-11-13T13:09:16.035Z KILL #110 worker container 3b749e5326f1
+2026-11-13T13:09:18.475Z KILL #111 worker container 2e67a1e82b1b
+2026-11-13T13:09:20.752Z KILL #112 worker container 68d12e21d6a6
+2026-11-13T13:09:23.035Z KILL #113 worker container 3b749e5326f1
+2026-11-13T13:09:25.380Z KILL #114 worker container 5c7cb1888e13
+2026-11-13T13:09:25.531Z waiting: 2777 jobs still open
+2026-11-13T13:09:28.464Z KILL #115 worker container 5c7cb1888e13
+2026-11-13T13:09:31.270Z KILL #116 worker container 2e67a1e82b1b
+2026-11-13T13:09:34.264Z KILL #117 worker container f907f65fe21a
+2026-11-13T13:09:35.602Z waiting: 2597 jobs still open
+2026-11-13T13:09:37.361Z KILL #118 worker container f907f65fe21a
+2026-11-13T13:09:40.448Z KILL #119 worker container 2e67a1e82b1b
+2026-11-13T13:09:43.798Z KILL #120 worker container f907f65fe21a
+2026-11-13T13:09:45.677Z waiting: 2415 jobs still open
+2026-11-13T13:09:46.606Z KILL #121 worker container 2e67a1e82b1b
+2026-11-13T13:09:49.847Z KILL #122 worker container 5c7cb1888e13
+2026-11-13T13:09:53.100Z KILL #123 worker container 3b749e5326f1
+2026-11-13T13:09:55.748Z waiting: 2237 jobs still open
+2026-11-13T13:09:56.618Z KILL #124 worker container 68d12e21d6a6
+2026-11-13T13:09:59.357Z KILL #125 worker container 9fc522d46aad
+2026-11-13T13:10:01.942Z KILL #126 worker container 7c6d021ab2a6
+2026-11-13T13:10:04.885Z KILL #127 worker container 2ad19c46e3a7
+2026-11-13T13:10:05.833Z waiting: 2055 jobs still open
+2026-11-13T13:10:07.328Z KILL #128 worker container 2e67a1e82b1b
+2026-11-13T13:10:10.636Z KILL #129 worker container 2ad19c46e3a7
+2026-11-13T13:10:12.980Z KILL #130 worker container 3b749e5326f1
+2026-11-13T13:10:15.916Z waiting: 1870 jobs still open
+2026-11-13T13:10:15.998Z KILL #131 worker container 2e67a1e82b1b
+2026-11-13T13:10:19.026Z KILL #132 worker container 2e67a1e82b1b
+2026-11-13T13:10:21.687Z KILL #133 worker container 7c6d021ab2a6
+2026-11-13T13:10:24.539Z KILL #134 worker container 68d12e21d6a6
+2026-11-13T13:10:26.003Z waiting: 1687 jobs still open
+2026-11-13T13:10:27.335Z KILL #135 worker container 9fc522d46aad
+2026-11-13T13:10:30.365Z KILL #136 worker container 9fc522d46aad
+2026-11-13T13:10:33.446Z KILL #137 worker container 5c7cb1888e13
+2026-11-13T13:10:36.093Z waiting: 1505 jobs still open
+2026-11-13T13:10:36.620Z KILL #138 worker container 2e67a1e82b1b
+2026-11-13T13:10:39.229Z KILL #139 worker container f907f65fe21a
+2026-11-13T13:10:41.887Z KILL #140 worker container 5c7cb1888e13
+2026-11-13T13:10:45.074Z KILL #141 worker container f907f65fe21a
+2026-11-13T13:10:46.169Z waiting: 1321 jobs still open
+2026-11-13T13:10:47.796Z KILL #142 worker container 9fc522d46aad
+2026-11-13T13:10:50.518Z KILL #143 worker container 5c7cb1888e13
+2026-11-13T13:10:53.642Z KILL #144 worker container 7c6d021ab2a6
+2026-11-13T13:10:56.272Z waiting: 1135 jobs still open
+2026-11-13T13:10:56.498Z KILL #145 worker container 5c7cb1888e13
+2026-11-13T13:10:58.959Z KILL #146 worker container 5c7cb1888e13
+2026-11-13T13:11:01.631Z KILL #147 worker container 2e67a1e82b1b
+2026-11-13T13:11:04.133Z KILL #148 worker container 5c7cb1888e13
+2026-11-13T13:11:06.353Z waiting: 955 jobs still open
+2026-11-13T13:11:07.080Z KILL #149 worker container f907f65fe21a
+2026-11-13T13:11:09.641Z KILL #150 worker container 2ad19c46e3a7
+2026-11-13T13:11:12.250Z KILL #151 worker container 68d12e21d6a6
+2026-11-13T13:11:15.036Z KILL #152 worker container 9fc522d46aad
+2026-11-13T13:11:16.431Z waiting: 771 jobs still open
+2026-11-13T13:11:18.032Z KILL #153 worker container 3b749e5326f1
+2026-11-13T13:11:20.602Z KILL #154 worker container 9fc522d46aad
+2026-11-13T13:11:23.164Z KILL #155 worker container f907f65fe21a
+2026-11-13T13:11:25.795Z KILL #156 worker container 7c6d021ab2a6
+2026-11-13T13:11:26.534Z waiting: 600 jobs still open
+2026-11-13T13:11:29.451Z KILL #157 worker container 9fc522d46aad
+2026-11-13T13:11:32.780Z KILL #158 worker container 2ad19c46e3a7
+2026-11-13T13:11:35.677Z KILL #159 worker container 9fc522d46aad
+2026-11-13T13:11:36.667Z waiting: 427 jobs still open
+2026-11-13T13:11:38.213Z KILL #160 worker container 68d12e21d6a6
+2026-11-13T13:11:41.073Z KILL #161 worker container 7c6d021ab2a6
+2026-11-13T13:11:43.500Z KILL #162 worker container 9fc522d46aad
+2026-11-13T13:11:46.010Z KILL #163 worker container 2ad19c46e3a7
+2026-11-13T13:11:46.738Z waiting: 249 jobs still open
+2026-11-13T13:11:48.892Z KILL #164 worker container 2e67a1e82b1b
+2026-11-13T13:11:51.350Z KILL #165 worker container 5c7cb1888e13
+2026-11-13T13:11:54.473Z KILL #166 worker container 7c6d021ab2a6
+2026-11-13T13:11:56.793Z waiting: 66 jobs still open
+2026-11-13T13:11:56.866Z KILL #167 worker container 9fc522d46aad
+2026-11-13T13:11:59.650Z KILL #168 worker container 2e67a1e82b1b
+2026-11-13T13:12:02.530Z KILL #169 worker container 3b749e5326f1
+2026-11-13T13:12:04.872Z KILL #170 worker container 2ad19c46e3a7
+2026-11-13T13:12:07.451Z KILL #171 worker container f907f65fe21a
+2026-11-13T13:12:07.456Z finished after 476.7s, kills=171
+2026-11-13T13:12:19.917Z 
+2026-11-13T13:12:19.919Z =========== RESULTS ===========
+2026-11-13T13:12:19.923Z PASS  1. no job lost (every key has a job)
+2026-11-13T13:12:19.925Z PASS  1b. no extra jobs (rows == number of keys)
+2026-11-13T13:12:19.927Z PASS  2. duplicate POSTs: exactly one 201, same id for all
+2026-11-13T13:12:19.929Z PASS  3. no job has more than one effect
+2026-11-13T13:12:19.931Z PASS  3b. every succeeded job has an effect
+2026-11-13T13:12:19.933Z PASS  3c. no effect for a job that is not succeeded
+2026-11-13T13:12:19.935Z PASS  3d. effect belongs to the job's final attempt
+2026-11-13T13:12:19.937Z PASS  4. no job stuck in queued or running
+2026-11-13T13:12:19.939Z PASS  5. only expected final states
+2026-11-13T13:12:19.941Z PASS  5b. outcome matches payload (fail flag)
+2026-11-13T13:12:19.945Z PASS  6. an accepted cancel (200/202) always ends as cancelled
+2026-11-13T13:12:19.947Z PASS  7. attempt == number of claims in run_log (no double claim)
+2026-11-13T13:12:19.949Z PASS  8. nothing changed during the 12s quiet period
+2026-11-13T13:12:19.951Z 
+2026-11-13T13:12:19.954Z final states: cancelled=1512, failed=183, succeeded=8305
+2026-11-13T13:12:19.955Z workers killed: 171
+2026-11-13T13:12:19.957Z jobs that were started more than once (a worker died mid-job): 162, highest attempt: 3
+2026-11-13T13:12:19.960Z cancel replies: {"200":1512,"409":483}
+2026-11-13T13:12:19.962Z network errors seen by the harness: 0
+2026-11-13T13:12:19.964Z VERDICT: ALL CHECKS PASSED
